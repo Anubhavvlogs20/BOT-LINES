@@ -1,12 +1,11 @@
-Tab("ROSEY BOT Code","code",{
-    "[ROSEY BOT CODE] print('Hello World!')",
-    "[ROSEY BOT CODE] for i = 1, 5 do print('Beep!') end",
-    "[ROSEY BOT CODE] function recharge() energy = 100 end",
-    "[ROSEY BOT CODE] if happy then dance() end",
-    "[ROSEY BOT CODE] while true do smile() end",
-    "[ROSEY BOT CODE] loadstring('fun_mode')()",
-    "[ROSEY BOT CODE] pcall(tell_joke)",
-    "[ROSEY BOT CODE] table.insert(memory, 'friend')",
-    "[ROSEY BOT CODE] system_status = 'awesome'",
-    "[ROSEY BOT CODE] print('Beep boop! Fun max!')"
-})
+[ROSEY BOT CODE] print('Hello World!')
+[ROSEY BOT CODE] for i = 1, 5 do print('Beep!') end
+[ROSEY BOT CODE] function recharge() energy = 100 end
+[ROSEY BOT CODE] if happy then dance() end
+[ROSEY BOT CODE] while true do smile() end
+[ROSEY BOT CODE] loadstring('fun_mode')()
+[ROSEY BOT CODE] pcall(tell_joke)
+[ROSEY BOT CODE] table.insert(memory, 'friend')
+[ROSEY BOT CODE] system_status = 'awesome'
+[ROSEY BOT CODE] print('Beep boop! Fun max!')
+(No remaining lines — all were removed)
